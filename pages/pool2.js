@@ -203,7 +203,7 @@ const setHandler =(event) => {
   </Link></h1></nav></header>
 <section className="section">
 {isConnected ? <><form onSubmit={setHandler}>
-        <p>APY&nbsp;:&nbsp;&nbsp;20%</p>
+        <p>APY&nbsp;:&nbsp;&nbsp;104%</p>
         <p><label htmlFor="first">STAKE</label></p>
         <input className="input" type="number" placeholder="input stake amount" id="setText" />
         <p>
