@@ -30,19 +30,6 @@ function Home() {
         <Link href="/pool1">
     <a><button className="butt">Return to angoratoken.com</button></a>
   </Link></h1></nav></header>
-<section className="sect">
- <><form>
- <p>ANGORA TOKEN</p>
- <p>APY&nbsp;:&nbsp;52%</p>
-        <p>7 DAYS LOCK</p>
-        <p><label htmlFor="first"></label></p>
-        <p>
-        <Link href="/pool1">
-    <a><button className="button">STAKE NOW</button></a>
-  </Link></p></form><form>
-          <p>
-          </p>
-        </form></></section>
         <section className="section">
  <><form>
  <p>ANGORA TOKEN</p>
