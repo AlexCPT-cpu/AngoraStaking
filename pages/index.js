@@ -33,7 +33,7 @@ function Home() {
 <section className="sect">
  <><form>
  <p>ANGORA TOKEN</p>
- <p>APY&nbsp;:&nbsp;10%</p>
+ <p>APY&nbsp;:&nbsp;52%</p>
         <p>7 DAYS LOCK</p>
         <p><label htmlFor="first"></label></p>
         <p>
@@ -46,7 +46,7 @@ function Home() {
         <section className="section">
  <><form>
  <p>ANGORA TOKEN</p>
- <p>APY&nbsp;:&nbsp;20%</p>
+ <p>APY&nbsp;:&nbsp;104%</p>
         <p>30 DAYS LOCK</p>
         <p><label htmlFor="first"></label></p>
         <p>
@@ -59,7 +59,7 @@ function Home() {
         <section className="section">
  <><form>
  <p>ANGORA TOKEN</p>
- <p>APY&nbsp;:&nbsp;30%</p>
+ <p>APY&nbsp;:&nbsp;156%</p>
         <p>90 DAYS LOCK</p>
         <p><label htmlFor="first"></label></p>
         <p>
