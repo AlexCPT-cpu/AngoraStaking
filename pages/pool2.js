@@ -64,7 +64,7 @@ export default function Home() {
       const contractAddress = "0xbaaCE760e122A1b7f787054D45Eb66362b52a08c";
       const contract = new ethers.Contract(contractAddress, abi, signer);
       try {
-        await contract.deposit(0, 2).send();
+        await contract.deposit(0, 2);
       } catch (error) {
         console.log(error);
         if (error)
@@ -88,7 +88,7 @@ const setHandler2 =(event) => {
     const contractAddress = "0xbaaCE760e122A1b7f787054D45Eb66362b52a08c";
     const contract = new ethers.Contract(contractAddress, abi, signer);
     try {
-      await contract.withdraw(0).send();
+      await contract.withdraw(0);
     } catch (error) {
       console.log(error);
       if (error)
